@@ -12,10 +12,6 @@ header {
     text-align: center;
 }
 
-body {
-    margin: 0; /* Elimină marginile implicite ale body-ului */
-}
-
 .servicii {
     padding: 50px;
 }
